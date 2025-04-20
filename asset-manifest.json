@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/soundboard/static/css/main.03c73633.css",
+    "main.js": "/soundboard/static/js/main.29bd888a.js",
+    "static/media/bg-card2.png": "/soundboard/static/media/bg-card2.8c71e51d5ae08026d03b.png",
+    "static/media/bg.jpg": "/soundboard/static/media/bg.2fa0afaa7a6b5e7781cd.jpg",
+    "index.html": "/soundboard/index.html",
+    "main.03c73633.css.map": "/soundboard/static/css/main.03c73633.css.map",
+    "main.29bd888a.js.map": "/soundboard/static/js/main.29bd888a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03c73633.css",
+    "static/js/main.29bd888a.js"
+  ]
+}
