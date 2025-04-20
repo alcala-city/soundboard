@@ -5,7 +5,7 @@ import ManageAudios from '../components/Audios/ManageAudios.js';
 function Dashboard() {
   return (
     <>
-      <CheckIp />
+      {/* <CheckIp /> */}
       <Typography
         variant="h4"
         sx={{
